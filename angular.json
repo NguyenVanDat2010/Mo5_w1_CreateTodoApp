@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-todo"
+    }
+  },
+  "defaultProject": "app-todo",
+  "cli": {
+    "analytics": "db9004b7-01b0-4169-9ad8-ffeb530efc9e"
+  }
 }
